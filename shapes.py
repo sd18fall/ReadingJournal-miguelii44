@@ -1,4 +1,5 @@
 import turtle
+<<<<<<< HEAD
 import math
 
 # Create the world, and a turtle to put in it
@@ -42,6 +43,14 @@ if __name__ == '__main__':
     circle(bob, radius)
 
 
+=======
+
+# Create the world, and a turtle to put in it
+bob = turtle.Turtle()
+
+# Get moving, turtle!
+bob.fd(100)
+>>>>>>> 1647cc32ec946c07aa246beefa45546bbbd54aaa
 
 # Wait for the user to close the window
 turtle.mainloop()
